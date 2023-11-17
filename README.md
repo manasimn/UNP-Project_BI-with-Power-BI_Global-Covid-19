@@ -9,4 +9,4 @@ KEY HIGHLIGHTS:
 3. Ardently involved in creating a data model and implementing data transformations and calculations using DAX for accurate analysis and reporting.
 
 PBIX file link: https://drive.google.com/file/d/11f-lVDgC_IKyKQedQ2WqQxW3dY8KpPlR/view?usp=sharing
-PDF link:
+PDF link: https://drive.google.com/file/d/1XDc5_0lWOrA1vVirUCjKVfqB-PMffHDf/view?usp=sharing
